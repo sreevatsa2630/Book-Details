@@ -1,0 +1,5 @@
+create maven project with 4 dependency 
+1.lombok
+2.spring data mongodb
+3.spring web
+4.spring boot devTools
